@@ -36,4 +36,7 @@ There is no limit as of now.
 ### Invite Link again pls
 [here](https://discord.com/oauth2/authorize?client_id=989440183428599849&permissions=139586824256&scope=bot)
 
+### Source for the website?
+[Made by ARLO#5097 ;)](https://github.com/NixDevs/isekaid-docs)
+
 
