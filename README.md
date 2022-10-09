@@ -1,2 +1,2 @@
 # isekaid-docs
-i dont even get paid
+The documentation for the RPG discord bot, Isekaid
