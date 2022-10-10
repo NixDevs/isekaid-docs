@@ -9,7 +9,7 @@ Type `$start` to pick a race. Races give you different buffs either in battle, a
 | `Elf`       | Increases intelligence by 1 **stat point** on level up |
 | `Lizardman` | Increases defense by 1 **stat point** on level up      |
 
-Upon reaching level 10, you obtain access to subclasses. Read about subclasses [here](../subclasses/subclasses.md)
+Upon reaching level 10, you obtain access to subclasses. Read about subclasses [here](./subclasses.md)
 
 !!! note
 
@@ -17,4 +17,5 @@ Upon reaching level 10, you obtain access to subclasses. Read about subclasses [
 
 !!! danger
     
-    After you choose an option you cannot choose another race or class unless you type `$restart`, so choose wisely!
+    After you choose an option you cannot choose another race or class unless you type `$restart`, so choose wisely!    
+

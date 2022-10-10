@@ -38,13 +38,17 @@ nav:
     - Home: index.md
     - Table of contents: SUMMARY.md
     - FAQ: FAQ.md
-  - Getting Started: getting-started/getting-started.md
-  - Subclasses: subclasses/subclasses.md
+  - Getting Started: 
+    - Getting Started: getting-started/getting-started.md
+    - Subclasses: getting-started/subclasses.md
   - Trade: trade/trade.md
-  - Skills: skills/skills.md
-  - Equipment: equipment/equipment.md
-  - Battles: battles/battle.md
+  - Battles:
+    - Battling: battles/battle.md
+    - Equipment: battles/equipment.md
+    - Skills: battles/skills.md
   - Fishing: fishing/fishing.md
+  - Guilds: guilds/guilds.md
+  - Pets: pets/pets.md
 extra:
   social:
     - icon: fontawesome/brands/github
