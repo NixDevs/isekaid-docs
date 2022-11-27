@@ -5,13 +5,13 @@ Subclasses provide a whole new dimension to your main class. Each class is divid
     To access subclasses you need to be **level 10** 
 
 ## Warrior subclasses
-Divided into swordsman, guardian and beserker. 
+Divided into **swordsman**, **guardian** and **beserker**. 
 
 ## Mage subclasses
-Divided into warlock, alchemist and elementalist
+Divided into **warlock**, **alchemist** and **elementalist**.
 
 ## Rogue subclasses
-Divided into soulthief, trickster and assassin
+Divided into **soulthief**, **trickster** and **assassin**.
 
 !!! example 
     <img src = "../../assets/subclass.gif">
